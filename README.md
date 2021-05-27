@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @samiulabir201
 - 👀 I’m interested in machine Learning 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Deep Learning specialization
+- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 📫 How to reach me samiulislamdev2k21@gmail.com
 # Hi there, I am Samiul Islam Abir 👋 
 <a href="https://github.com/samiulabir201/github-profile-trophy">
 <h2>🏆 Github Profile Trophy</h2>
