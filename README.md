@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine Learning 
 - 🌱 I’m currently learning Deep Learning specialization
 - 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me samiulislamdev2k21@gmail.com
+- 📫 How to reach me samiulislam@iut-dhaka.edu
 # Hi there, I am Samiul Islam Abir 👋 
 <a href="https://github.com/samiulabir201/github-profile-trophy">
 <h2>🏆 Github Profile Trophy</h2>
